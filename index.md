@@ -4,7 +4,7 @@ This is my home page! My name is Alex Guzman and I am a student at [Cal State Fu
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/nootalexoof
+My GitHub page is [Nootalexoof] (https://github.com/nootalexoof)
 
 ### CPSC 120
 
